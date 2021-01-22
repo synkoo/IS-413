@@ -1,0 +1,15 @@
+﻿body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+label {
+    font-size: 20px;
+    color: blue;
+    width: 200px;
+    display: flex;
+}
+
+ul.job-list li {
+    list-style-type: none;
+    color:black;
+}
